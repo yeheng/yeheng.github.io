@@ -1,5 +1,0 @@
-AccessKey ID
-LTAI5tDxqzvQpVnSiujikNDY
-
-AccessKey Secret
-DmI6GnZeHhmFyA7fnm69l3hjm6Z8De
